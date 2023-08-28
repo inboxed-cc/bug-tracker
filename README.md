@@ -46,7 +46,7 @@ We encourage you to report any bugs or issues you encounter while using the inbo
 
 5. **Screenshots:** If applicable, include screenshots to visually explain the problem.
 
-To report a bug or issue, [create a new issue](../../issues/new) and fill out the provided issue template.
+To report a bug or issue, [create a new issue](../../issues/new?assignees=&labels=bug&projects=&template=bug_report.md&title=) and fill out the provided issue template.
 
 ## How to Request a Feature
 
@@ -60,7 +60,7 @@ If you have a feature request or an enhancement idea for the inboxed.cc website,
 
 4. **Discussion:** Be prepared for a discussion with the development team and the community regarding the feasibility and implementation of the feature.
 
-To request a feature, [create a new issue](../../issues/new) and select the appropriate template for feature requests.
+To request a feature, [create a new issue](../../issues/new?assignees=&labels=enhancement&projects=&template=feature_request.md&title=) and select the appropriate template for feature requests.
 
 ## Issue Labels
 
