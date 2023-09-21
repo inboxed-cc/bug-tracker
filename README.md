@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://inboxed.cc/">
-    <img src="/banner.png" height="300px">
+    <img src="/banner.jpg" height="300px">
   </a>
 </p>
 
@@ -17,14 +17,17 @@ This repository is dedicated to tracking and managing the reported bugs, issues,
 The different SDKs will have their own repos, you can post issues there:
 
 - ... coming soon
-  
+
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [How to Report a Bug or Issue](#how-to-report-a-bug-or-issue)
-- [How to Request a Feature](#how-to-request-a-feature)
-- [Issue Labels](#issue-labels)
-- [Issue Lifecycle](#issue-lifecycle)
+- [Bug Tracking Repository](#bug-tracking-repository)
+  - [Other inboxed repositories](#other-inboxed-repositories)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [How to Report a Bug or Issue](#how-to-report-a-bug-or-issue)
+  - [How to Request a Feature](#how-to-request-a-feature)
+  - [Issue Labels](#issue-labels)
+  - [Issue Lifecycle](#issue-lifecycle)
 
 ## Introduction
 
@@ -42,7 +45,7 @@ We encourage you to report any bugs or issues you encounter while using the inbo
 
 3. **Reproducible:** Please ensure that the issue is reproducible. This will help the development team investigate and fix the problem more effectively.
 
-4. (**Version:**) Mention the version if applicable. 
+4. (**Version:**) Mention the version if applicable.
 
 5. **Screenshots:** If applicable, include screenshots to visually explain the problem.
 
@@ -77,4 +80,3 @@ We use labels to categorize and prioritize issues. Here are some of the labels y
 2. **In Progress:** The issue is actively being worked on by a contributor.
 
 3. **Closed:** The issue has been resolved, implemented, or deemed not feasible. Closed issues may be reopened if necessary.
-
